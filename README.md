@@ -7,7 +7,7 @@ Following three steps are peformed in this project:
 
 ## 1. Data Modelling
 
-    The table schema is created by designing the ERD diagram using [QuickDBD](https://app.quickdatabasediagrams.com/#/)
+    The table schema is created by designing the ERD diagram using [QuickDBD]([https://app.quickdatabasediagrams.com/#/](https://www.quickdatabasediagrams.com/))
 
 ## 2. Data Engineering
 
