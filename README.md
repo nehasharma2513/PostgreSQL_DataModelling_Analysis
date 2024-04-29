@@ -7,11 +7,11 @@ Following three steps are peformed in this project:
 
 ## 1. Data Modelling
 
-    The table schema is created by designing the ERD diagram using [QuickDBD](https://www.quickdatabasediagrams.com/)
+ The table schema is created by designing the ERD diagram using [QuickDBD](https://www.quickdatabasediagrams.com/)
 
 ## 2. Data Engineering
 
-    The following tables have been designed to hold the data from the CSV files:
+  The following tables have been designed to hold the data from the CSV files:
 
     1. departments
     2. titles
@@ -22,7 +22,7 @@ Following three steps are peformed in this project:
 
 ## 3. Data Analysis
 
-    The following analysis was carried out in PostgreSQL:
+     The following analysis was carried out in PostgreSQL:
 
         List the employee number, last name, first name, sex, and salary of each employee.
 
